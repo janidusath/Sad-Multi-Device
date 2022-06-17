@@ -1,7 +1,7 @@
 {
-    "name": "Sad-Bot",
+    "name": "HIMBA-Bot",
     "version": "1.0.4",
-    "description": "Simple WhatsApp Bot ESM",
+    "description": "HIMBA WhatsApp Bot ESM",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FahriAdison/Sad-Multi-Device",
+    "homepage": "https://github.com/",
     "author": {
-        "name": "Papah-Chan"
+        "name": "HIMBA"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/FahriAdison/Sad-Multi-Device.git"
     },
     "bugs": {
-        "url": "https://github.com/FahriAdison/Sad-Multi-Device/issues"
+        "url": "https://github.com/"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
